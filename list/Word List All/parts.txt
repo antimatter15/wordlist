@@ -1,0 +1,224 @@
+ambi,around,ambient
+duct,lead,ductile
+cilium,eyelid,supercilious
+ite,adherent,Sybarite
+vale,farewell,valediction
+dict,say,valediction
+tion,act,valediction
+super,over,supercilious
+mort,death,moribund
+pos,put,expository
+dis,from,dishabille
+rogat,ask,surrogate
+trune,a stem,truncate
+trans,over,transcend
+scend,climb,transcend
+vitium,vice,vituperate
+man,hand,amanuensis
+ambul,walk,ambulatory
+noct,night,nocturne
+thanatos,death,euthanasia
+spatium,space,expatiate
+spec,look,specious
+xeno,stranger,xenophobia
+phobia,fear,xenophobia
+clud,close,cloister
+par,equal,nonpareil
+sag,wise,sagacity
+icon,image,iconoclasm
+clast,break,iconoclasm
+non,not,nonpareil
+an,without,anodyne
+mord,bite,mordacious
+equi,equal,equipoise
+pend,weigh,equipoise
+ann,year,superannuated
+tract,pull,intractable
+puer,boy,puerilism
+ile,like,puerilism
+sym,together,symbiosis
+bio,life,symbiosis
+necro,death,necrophobia
+retro,backward,retrospective
+fin,end,fin de si&egrave;cle
+cise,cut,incisive
+aedes,dwelling,edify
+ped,child,pedantry
+viv,life,modus vivendi
+homeo,same,homeostasis
+stasis,stand,homeostasis
+clam,cry out,clamor
+cad,fall,recidivism
+ism,system,recidivism
+vehe,carry,inveigh
+miso,hatred,misogynist
+multi,many,multifarious
+fac,make,multifarious
+prope,near,rapproachement
+dis,not,diffident
+gyn,woman,misogynist
+string,bind,stringent
+pyro,fire,pyromania
+mania,madness,pyromania
+stereo,solid,stereotype
+quis,search,disquisition
+alt,high,haute couture
+megalo,large,megalomania
+son,sound,dissonant
+myria,many,myriad
+opia,sight,myopia
+clar,clear,chiaroscuro
+choreo,dance,choreography
+topo,place,topiary
+onto,organism,ontogeny
+onto,being,ontologysanct,holy,sanctimonious
+gen,origin,ontogeny
+voc,voice,viva voce
+para,beside,paragon
+pecunia ,money,impecunious
+simul,feign,dissemble
+epi,upon,ephemeral
+taph,tomb,epitaph
+crea,create,procreant
+fin,limit,ad infinitum
+omni,all,omnium gatherum
+prob,test,reprobate
+contra,against,contretemps
+tempor,time,contretemps
+per,through,PERplex
+trans,across,TRAverse
+biblio,book,BIBLIOphile
+phile,love,biblioPHILE
+demo,people,DEMOgraphy
+graph,write,demoGRAPHy
+sangui,blood,SANGUIne
+cred,believe,inCREDulous
+plex,weave,perPLEX
+ob,against,OStentatious
+tens,stretch,osTENtatious
+micro,small,MICROcosm
+cosmo,universe,microCOSM
+anim,mind,ANIMus
+in,not,INcredulous
+neo,new,neophyte
+phyte,plant,neophyte
+mens,measure,commensurate
+plus,more,nonplused
+co,together,copious
+de,down,demur
+punct,point,poignant
+tude,state of,lassitude
+pre,before,apprehend
+ad,to,apprehend
+hend,grasp,apprehend
+pro,before,prodigious
+dol,suffer,indolent
+put,think,putative
+moll,soft,mollify 
+
+ag,to do,ambiguous
+val ,worth,ambivalent
+ous,full of,ambiguous
+lent,full of,ambivalent
+greg,group,gregarious
+alter,other,altercation
+ego,I,alter ego
+ambi,both,ambiguous
+phil,love,philander
+andro,man,philander
+apo,away,apocrypha
+crypt,hidden,apocrypha
+in,in,importune
+port,carry,importune
+cap,take,precept
+caco,bad,cacoethes
+ethos,custom,cacoethes
+ver ,true,veridical
+ex,out,expunge
+acr,sharp,acerbity
+fid,faith,perfidy
+phon,sound,cacophony
+tang,touch,tangible
+dia,across,dialectic
+soph,wisdom,sophist
+ist,one who,sophist
+dis,away,denouement
+nod,knot,denouement
+cup,desire,concupiscence
+ed,eat,esculent
+ven,come,circumvent
+ten,hold,pertinacious
+inter ,between,interlocutor
+locu,talk,interlocutor
+auto,self,autodidact
+res,thing,reify
+fy,make,reify
+medi,middle,in medias res
+circum,around,circumvent
+culp,blame,exculpate
+sequ,follow,obsequious
+pend,hang,pensive
+amat,love,amiable
+xero,dry,serene
+ab,away,abate
+und,wave,undulate
+sed,sit,sedate
+nihil ,nothing,nihilism
+ism,doctrine,nihilism
+ate,cause,undulate
+con,together,condescend
+eu,good,euphoria
+phor,carry,euphoria
+proto,first,protocol
+vid,look,visage
+fic,make,pontificate
+mend,flaw,mendacious
+uxor,wife,uxorious
+phan ,say,apophasis
+re,back,rebuke
+epi,on,epiphany
+jur,swear,objurgate
+sopor,sleep,soporific
+nec,kill,internecine
+dicho,two parts,dichotomy
+tomy,cut,dichotomy
+phan,appearance,epiphany
+ek,out,eclectic
+lect,gather,eclectic
+numen,deity,numinous
+phan,say,aphasia
+pro,forward,propitious
+re,again,requite
+a,not,aphasia
+null,none,nullifidian
+rid ,laugh,risible
+ine,nature of,saturnine
+vac,empty,vacuous
+pusill,tiny,pusillanimous
+sub,under,sublime
+act,to do,auto da fe
+im,not,impunity
+lum,light,illuminati
+-i,plural,illuminati
+mony,condition,hegemony
+psych,soul,psychosis
+osis,condition,psychosis
+neuro,nerve,neurosis
+ager,field,peregrinate
+ideo,idea,idée fixe
+
+curs,run,precursor
+ten,thin,attenuated
+extra,beyond,extraneous
+fundus,bottom,profound
+se,apart,sedulous
+phan,to show,sycophant
+legein,to speak,prolegomenon
+hedone,delight,hedonism
+pater,father,patrician
+mis,bad,miscreant
+cred,believe,miscreant
+terr,land,terra firma
+de,from,desuetude
+peri,around,peripatetic
+patein,to walk,peripatetic

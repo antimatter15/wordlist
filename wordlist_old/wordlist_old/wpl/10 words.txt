@@ -1,0 +1,11 @@
+ambient,surrounding
+ductile,malleable
+supercilious,scornful
+Sybarite,a devotee of luxury
+valediction,farewell speech
+moribund,dying
+expository,explanatory
+dishabille,partially dressed
+surrogate,substitute
+truncate,to cut short
+transcend,go beyond

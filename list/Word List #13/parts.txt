@@ -1,0 +1,15 @@
+aedes,dwelling,edify
+ped,child,pedantry
+viv,life,modus vivendi
+homeo,same,homeostasis
+stasis,stand,homeostasis
+clam,cry out,clamor
+cad,fall,recidivism
+ism,system,recidivism
+vehe,carry,inveigh
+miso,hatred,misogynist
+multi,many,multifarious
+fac,make,multifarious
+prope,near,rapproachement
+dis,not,diffident
+gyn,woman,misogynist

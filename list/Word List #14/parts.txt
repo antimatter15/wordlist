@@ -1,0 +1,15 @@
+string,bind,stringent
+pyro,fire,pyromania
+mania,madness,pyromania
+stereo,solid,stereotype
+quis,search,disquisition
+alt,high,haute couture
+megalo,large,megalomania
+son,sound,dissonant
+myria,many,myriad
+opia,sight,myopia
+clar,clear,chiaroscuro
+choreo,dance,choreography
+topo,place,topiary
+onto,organism,ontogeny
+onto,being,ontology

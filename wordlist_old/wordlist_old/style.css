@@ -1,0 +1,10 @@
+body{ background-color: #000; font: 32px Helvetica, Arial; color: #fff; }
+
+input, select { font: 32px Helvetica, Arial;}
+
+#cor, #err, #typo { width: 100%; height: 100px; padding: 4px; padding-right: 0 }
+
+#cor { background-color: green; }
+#err { background-color: red; }
+#typo { background-color: orange; }
+#log {background-color: gray;}

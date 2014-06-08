@@ -1,0 +1,16 @@
+neo,new,neophyte
+phyte,plant,neophyte
+mens,measure,commensurate
+plus,more,nonplused
+co,together,copious
+de,down,demur
+punct,point,poignant
+tude,state of,lassitude
+pre,before,apprehend
+ad,to,apprehend
+hend,grasp,apprehend
+pro,before,prodigious
+dol,suffer,indolent
+put,think,putative
+moll,soft,mollify 
+

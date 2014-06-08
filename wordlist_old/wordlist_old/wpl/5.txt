@@ -1,0 +1,15 @@
+ven,come
+ten,hold
+inter,between
+locu,talk
+auto,self
+res,thing
+fy,make
+medi,middle
+circum,around
+culp,blame
+sequ,follow
+pend,hang
+amat,love
+xero,dry
+ab,away

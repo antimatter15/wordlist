@@ -1,0 +1,15 @@
+ag,to do,ambiguous
+val ,worth,ambivalent
+ous,full of,ambiguous
+lent,full of,ambivalent
+greg,group,gregarious
+alter,other,altercation
+ego,I,alter ego
+ambi,both,ambiguous
+phil,love,philander
+andro,man,philander
+apo,away,apocrypha
+crypt,hidden,apocrypha
+in,in,importune
+port,carry,importune
+cap,take,precept

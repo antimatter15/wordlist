@@ -1,0 +1,14 @@
+an,without
+mord,bite
+equi,equal
+pend,weigh
+ann,year
+tract,pull
+puer,boy
+ile,like
+sym,together
+bio,life
+necro,death
+retro,backward
+fin,end
+cise,cut

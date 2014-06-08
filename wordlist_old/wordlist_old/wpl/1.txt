@@ -1,0 +1,15 @@
+per,through,PERplex
+trans,across,TRAverse
+biblio,book,BIBLIOphile
+phile,love,biblioPHILE
+demo,people,DEMOgraphy
+graph,write,demoGRAPHy
+sangui,blood,SANGUIne
+cred,believe,inCREDulous
+plex,weave,perPLEX
+ob,against,OStentatious
+tens,stretch,osTENtatious
+micro,small,MICROcosm
+cosmo,universe,microCOSM
+anim,mind,ANIMus
+in,not,INcredulous

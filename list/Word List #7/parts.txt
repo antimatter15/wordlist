@@ -1,0 +1,15 @@
+epi,on,epiphany
+jur,swear,objurgate
+sopor,sleep,soporific
+nec,kill,internecine
+dicho,two parts,dichotomy
+tomy,cut,dichotomy
+phan,appearance,epiphany
+ek,out,eclectic
+lect,gather,eclectic
+numen,deity,numinous
+phan,say,aphasia
+pro,forward,propitious
+re,again,requite
+a,not,aphasia
+null,none,nullifidian

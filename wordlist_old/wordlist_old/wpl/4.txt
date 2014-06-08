@@ -1,0 +1,15 @@
+caco,bad
+ethos,custom
+ver,true
+ex,out
+acr,sharp
+fid,faith
+phon,sound
+tang,touch
+dia,across
+soph,wisdom
+ist,one who
+dis,away
+nod,knot
+cup,desire
+ed,eat

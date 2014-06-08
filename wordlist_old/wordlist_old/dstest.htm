@@ -1,0 +1,24 @@
+<script src="datastore-service.js"></script>
+<script>
+  d = new Datastore("datastore_test_chat2", "dsproxy.php?", true);
+  function postmsg(f){
+    d.write("message", f.text.value, function(){setTimeout(reload,100)});
+  }
+  
+  function reload(){
+    d.list("message", function(e){
+      document.getElementById("msg").innerHTML = "";
+      for(var i = 0; i < e.list.length; i++){
+        d.read(e.list[i].id, function(f){
+          document.getElementById("msg").innerHTML += f.data+"<br>";
+        })
+      }
+    })
+  }
+  
+</script>
+<div id="msg"></div>
+<form onsubmit="postmsg(this);return false">
+<input type="text" name="text">
+<input type="submit" value="Post">
+</form>

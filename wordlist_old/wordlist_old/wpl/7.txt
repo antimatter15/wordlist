@@ -1,0 +1,14 @@
+epi,on
+jur,swear
+sopor,sleep
+nec,kill
+dicho,two parts
+tomy,cut
+phan,appearance
+ek,out
+lect,gather
+numen,deity
+pro,forward
+re,again
+a,not
+null,none

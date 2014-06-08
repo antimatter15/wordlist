@@ -1,0 +1,77 @@
+<html>
+  <head>
+    <title>Brainfuck Converter/Interpreter</title>
+    
+    <script>
+BF_ARRAY_LEN = 4000;
+
+arr = new Array(BF_ARRAY_LEN);  
+
+
+function evalBF(codestr, outputField)
+{
+  outputField.value = "";
+  for (i=0; i<BF_ARRAY_LEN; i++) arr[i] = 0;
+  ptr = 0;
+  loopstack = Array();
+  i = 0;
+
+  while (i < codestr.length)
+  {
+  switch (codestr.charAt(i))
+  {
+  case "[":
+    if (arr[ptr]!=0) loopstack.push(i);
+    else i = codestr.indexOf("]",i);
+    i++;
+    break;
+  case "]":
+    i = loopstack[loopstack.length-1];
+    loopstack.splice(0,loopstack.length-2)
+    break;
+  case "+":
+    arr[ptr]++;
+    i++;
+    break;
+  case "-":
+    arr[ptr]--;
+    i++;
+    break;
+  case "<":
+    ptr--;
+    i++;
+    break;
+  case ">":
+    ptr++;
+    i++;
+    break;
+  case ".":
+    outputField.value += String.fromCharCode(arr[ptr]);
+    i++;
+    break;
+  case ",":
+    input = prompt("BF program input:","");
+    arr[ptr] = input.charCodeAt(0);
+    i++;
+    break;
+  default:
+    i++;
+    break;
+  }
+  }
+}
+
+    </script>
+  </head>
+  <body>
+    <form>
+      Input:<br>
+      <textarea name="codestr" rows="4" cols="50" wrap="hard">++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+</textarea><br><br>
+      <input value="Interpret" onclick="evalBF(codestr.value,bfout)" type="button"><br><br>
+      Output:<br>
+      <textarea name="bfout" rows="6" cols="50"></textarea><br>
+    </form>
+  </body>
+</html>
+

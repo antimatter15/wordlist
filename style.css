@@ -1,0 +1,39 @@
+
+
+    body {
+      background-color: DarkGray;
+      font: 32px Helvetica, Arial;
+    }
+    select {
+      width: 400px;
+    }
+    input, select, a {
+      font: 32px Helvetica, Arial;
+    }
+    a {
+      text-decoration: none;
+      color: gray;
+      margin: 20px;
+    }
+    #msg {
+      height: 100%; 
+      padding: 10px;
+      margin: 20px;
+      font-size: 25px;
+      color: white;
+    }
+    #query {
+      font: 25px Helvetica, Arial; 
+      margin: 15px;
+    }
+    #bottom_right {
+      position: absolute;
+      bottom: 5px;
+      right: 0;
+    }
+    
+    #bottom_left {
+      position: absolute;
+      bottom: 5px;
+      left: 0;
+    }

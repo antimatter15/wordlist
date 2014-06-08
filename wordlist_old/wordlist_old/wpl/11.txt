@@ -1,0 +1,15 @@
+vitium,vice
+man,hand
+ambul,walk
+noct,night
+thanatos,death
+spatium,space
+spec,look
+xeno,stranger
+phobia,fear
+clud,close
+par,equal
+sag,wise
+icon,image
+clast,break
+non,not

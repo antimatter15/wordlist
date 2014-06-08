@@ -1,0 +1,163 @@
+ambient,surrounding
+ductile,malleable
+supercilious,scornful
+Sybarite,a devotee of luxury
+valediction,farewell speech
+moribund,dying
+expository,explanatory
+dishabille,partially dressed
+surrogate,substitute
+truncate,to cut short
+transcend,go beyondanodyne,a pain reliever
+mordacious,biting
+equipoise,balence
+superannuated,obselete
+intractable,stubborn
+puerilism,childishness
+symbiosis,mutual interdependence
+necrophobia,fear of death
+retrospective,backward looking
+fin de siecle,decadent
+incisive,sharp
+anodyne,a pain reliever
+mordacious,biting
+equipose,balence
+superannuated,obselete
+intractable,stubborn
+puerilism,childishness
+symbiosis,mutual interdependence
+necrophobia,fear of death
+retrospective,backward looking
+fin de siecle,decadent
+incisive,sharpedify,to enlighten
+pedantry,trivial teaching
+modus vivendi,manner of living
+homeostasis,equilibrium
+clamor,loud outcry
+recidivism,chronic relapse
+inveigh,to violently criticize
+diffident,shy
+misogynist,hater of women
+multifarious,very diverse
+rapproachement,restoration of friendship
+stringent,binding
+pyromania,compulsive arson
+stereotype,a fixed prejudice
+disquisition,formal discussion
+haute couture,high fashion
+megalomania,delusions of greatness
+dissonant,inharmonious
+myriad,innumerable
+myopia,nearsightedness
+chiaroscuro,artistic shading
+choreography,dancing
+topiary,art of trimming shrubs
+ontogeny,development of individual
+ontology,metaphysics of being﻿sanctimonious,affectedly holy
+viva voce,word of mouth
+paragon,excellent model
+impecunious,poor
+dissemble,conceal through pretense
+ephemeral,short-lived
+epitaph,tomb inscription
+procreant,producing offspring
+ad infinitum,without end
+omnium gatherum,an assorted collection
+reprobate,hopeless scoundrel
+contretemps,embarrassing mishap
+perplex,confuse
+traverse,cross
+bibliophile,a book lover
+demography,study of populations
+sanguine,cheerful
+ostentation,showy
+microcosm,small universe
+animus,intent or hatred
+nonplused,perplexed
+incredulous,not believingneophyte,beginner
+commensurate,of like measure
+copius,abundant
+demur,to object
+poignant,sharp
+lassitude,langour
+apprehend,to undersand
+prodigious,amazing
+indolent,lazy
+putative,tought-to-be
+mollify,make softambiguous,indefinite
+ambivalence,conflicting feelings
+gregarious,sociable
+altercation,heated dispute
+alter ego,second self
+philander,to engage in love affairs
+apocrypha,unauthentic works
+importune,to trouble with requests
+precept,a maximcacoethes,a mania
+veridical,truthful
+expunge,completely remove
+acerbity,sharpness of temper
+perfidy,breach of faith
+cacophony,bad noise
+tangible,touchable
+dialectic,logical argument
+sophist,a specious reasoner
+denouement,unraveling of plot
+concupiscence,intense desire or lust
+esculent,ediblecircumvent,get around
+pertinacious,holding stubbornly
+interlocutor,person in conversation
+autodidact,self-taught person
+reify,treat as real
+in medias res,in the middle of things
+exculpate,free from blame
+obsequious,servile
+pensive,sadly thoughtful
+amiable,friendly
+serene,clear and calm
+abate,to lessenundulate,to wave
+sedate,calm
+nihilism,belief in nothing
+condescend,lower oneself
+euphoria,feeling of well-being
+protocol,rules of ceremony
+visage,face
+pontificate,speak dogmatically
+mendacious,untruthful
+uxorious,wife-doting
+apophasis,mention by denial
+rebuke,sharp reprimandepiphany,revelation
+objurgation,rebuke
+soporific,sleep-inducing
+internecine,mutually destructive
+dichotomy,two-part division
+eclectic,from various sources
+numinous,supernatural
+aphasia,loss of speech
+propitius,favorably disposed
+requite,repay
+nullifidian,faithless personrisible,laughable
+saturnine,gloomy and remote
+vacuous,stupidly empty of ideas
+pusillanimous,small-minded
+sublime,noble
+auto da fe,burning a heretic
+impunity,exemption from punishment
+illuminati,enlightened intellects
+hegemony,state dominance
+psychosis,major mental illness
+neurosis,mental disorder
+peregrinate,to travel
+idee fixe,obsession
+precursor,forerunner
+attenuated,thinned
+extraneous,from outside
+profound,deep
+sedulous,diligent
+sycophant,an obsequious parasite
+prolegomenon,preliminary statement
+hedonism,devotion to pleasure
+patrician,aristocratic
+miscreant,evil unbeliever
+terra firma,firm land
+desuetude,disuse
+peripatetic,walking

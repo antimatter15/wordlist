@@ -1,0 +1,15 @@
+ven,come,circumvent
+ten,hold,pertinacious
+inter ,between,interlocutor
+locu,talk,interlocutor
+auto,self,autodidact
+res,thing,reify
+fy,make,reify
+medi,middle,in medias res
+circum,around,circumvent
+culp,blame,exculpate
+sequ,follow,obsequious
+pend,hang,pensive
+amat,love,amiable
+xero,dry,serene
+ab,away,abate

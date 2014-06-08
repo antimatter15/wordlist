@@ -1,0 +1,15 @@
+ambi,around,ambient
+duct,lead,ductile
+cilium,eyelid,supercilious
+ite,adherent,Sybarite
+vale,farewell,valediction
+dict,say,valediction
+tion,act,valediction
+super,over,supercilious
+mort,death,moribund
+pos,put,expository
+dis,from,dishabille
+rogat,ask,surrogate
+trune,a stem,truncate
+trans,over,transcend
+scend,climb,transcend

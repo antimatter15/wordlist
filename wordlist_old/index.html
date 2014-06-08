@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+  <title>Word Parts</title>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <select id="wpc" onchange="changelist(this);">
+    <option disabled selected>Select Word Parts List</option>
+  </select>
+  <br><br>
+  <div id="test" style="display: none">
+  
+  <div id="cor" class="msg" style="display: none;"></div> 
+  <div id="err" class="msg" style="display: none;"></div>
+  <div id="typo" class="msg" style="display: none;"></div>
+  <div id="log" class="msg" style="display: none;"></div>
+  
+  <p id="wrd"></p>
+  <form id="test" onsubmit="check();return false"> 
+  <input type="text" autocomplete="off" id="in"> 
+  </form>
+  </div>
+
+  <script type="text/javascript" src="lib.js"></script>
+  <script type="text/javascript" src="cmd.js"></script>
+  <script type="text/javascript" src="core.js"></script>
+</body>
+</html>

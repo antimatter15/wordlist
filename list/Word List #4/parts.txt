@@ -1,0 +1,15 @@
+caco,bad,cacoethes
+ethos,custom,cacoethes
+ver ,true,veridical
+ex,out,expunge
+acr,sharp,acerbity
+fid,faith,perfidy
+phon,sound,cacophony
+tang,touch,tangible
+dia,across,dialectic
+soph,wisdom,sophist
+ist,one who,sophist
+dis,away,denouement
+nod,knot,denouement
+cup,desire,concupiscence
+ed,eat,esculent

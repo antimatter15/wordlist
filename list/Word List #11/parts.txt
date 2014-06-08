@@ -1,0 +1,15 @@
+vitium,vice,vituperate
+man,hand,amanuensis
+ambul,walk,ambulatory
+noct,night,nocturne
+thanatos,death,euthanasia
+spatium,space,expatiate
+spec,look,specious
+xeno,stranger,xenophobia
+phobia,fear,xenophobia
+clud,close,cloister
+par,equal,nonpareil
+sag,wise,sagacity
+icon,image,iconoclasm
+clast,break,iconoclasm
+non,not,nonpareil

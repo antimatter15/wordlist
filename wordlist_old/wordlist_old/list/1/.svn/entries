@@ -1,0 +1,30 @@
+9
+
+dir
+0
+https://web-wordlist.googlecode.com/svn/trunk/list/1
+https://web-wordlist.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+parts.txt
+file
+
+
+
+add
+
+words.txt
+file
+
+
+
+add
+
